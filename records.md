@@ -13,6 +13,8 @@
 |Elton John             |Goodbye Yellow Brick Road|Feb 22, 2015    |$5.00  |
 |The Pretenders         |The Pretenders           |Feb 22, 2015      |$8.00  |
 |Tony Bennett/Lady Gaga |Cheek to Cheek           |Feb 22, 2015 |$18.00 |
+|Wings                  |Wings Over America       |Unknown      |$10.00 |
+
 
 ##Inherited Records - Records my parents gave me  
 
@@ -21,6 +23,9 @@
 |Jethro Tull            |Thick as a Brick         |Feb 15, 2015  |
 |Billy Joel             |Glass Houses             |Feb 15, 2015  |
 |Heart                  |Magazine                 |Feb 15, 2015  |
+|Pink Floyd             |Dark Side of the Moon    |Unknown       |
+|Pink Floyd             |Wish You Were Here       |Unknown       |
+
 
 
 
